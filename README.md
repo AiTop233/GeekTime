@@ -1,920 +1,1113 @@
 # GeekTime 极客时间专栏课
 
+# 专栏课
 ## 001-技术与商业案例解读
-链接：https://pan.baidu.com/s/10z5uFffictkxhtQocgg4gA 
-提取码：v448
+链接：https://pan.baidu.com/s/1acIx3TNhCJbV42cyxQpv0A?pwd=wjup
+提取码：wjup
 
 ## 002-AI技术内参
-链接：https://pan.baidu.com/s/1sz6ZZPRadhnZySwDOSEtFw 
-提取码：v448
+链接：https://pan.baidu.com/s/1Lg_2plMJGlHTZ12r0bzTHw?pwd=wjup
+提取码：wjup
 
 ## 003-左耳听风
-链接：https://pan.baidu.com/s/17I_GoNowSVJFWz6mkz-M1Q 
-提取码：v448
+链接：https://pan.baidu.com/s/1CNjCAo4ej4FLes2yEDMIuA?pwd=wjup
+提取码：wjup
 
 ## 004-朱赟的技术管理课
-链接：https://pan.baidu.com/s/1VgSAnyU2ZaIsOYON8J2G0A 
-提取码：v448
+链接：https://pan.baidu.com/s/1CAHyWv5VJSQwt7D-rM5zBg?pwd=wjup
+提取码：wjup
 
 ## 005-邱岳的产品手记
-链接：https://pan.baidu.com/s/1xclmZ7nolX9c1Zy_JxPB6Q 
-提取码：v448
+链接：https://pan.baidu.com/s/1Yn4lUWrp-Lj9MHCcMh7gwg?pwd=wjup
+提取码：wjup
 
 ## 006-人工智能基础课
-链接：https://pan.baidu.com/s/1idcUipyb_CESEtv8Y4i43g 
-提取码：v448
+链接：https://pan.baidu.com/s/1qL6e7KmA9dmC91d5pVjqrA?pwd=wjup
+提取码：wjup
 
 ## 007-赵成的运维体系管理课
-链接：https://pan.baidu.com/s/1_rFKOwp4N5_KlzMS1wuszw 
-提取码：v448
+链接：https://pan.baidu.com/s/1uMpqZ5tUMhXN8VWkaDSwaA?pwd=wjup
+提取码：wjup
 
 ## 008-推荐系统三十六式
-链接：https://pan.baidu.com/s/13lbVqsXPx62nxKIrz0HPHg 
-提取码：v448
+链接：https://pan.baidu.com/s/1HK7s89xIJYcuC3U61NiabA?pwd=wjup
+提取码：wjup
 
 ## 009-深入浅出区块链
-链接：https://pan.baidu.com/s/1OGKrt1vgwMtHy41ha5sufQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1uPj871C5NhqjZ7nZx2odPw?pwd=wjup
+提取码：wjup
 
 ## 010-技术领导力实战笔记
-链接：https://pan.baidu.com/s/1vAE-2qfXY1Rh0V2A3-yK9g 
-提取码：v448
+链接：https://pan.baidu.com/s/15ROQCLTq-pdn3qwS29fMSg?pwd=wjup
+提取码：wjup
 
 ## 011-硅谷产品实战36讲
-链接：https://pan.baidu.com/s/1-CrszzzbsZVtNJ1gDGtFDA 
-提取码：v448
+链接：https://pan.baidu.com/s/1dUsPktA5vNS1r6pf_A_egA?pwd=wjup
+提取码：wjup
 
 ## 012-从0开始学架构
-链接：https://pan.baidu.com/s/1VGJr8JP-GKfFYwQnGWQ6gg 
-提取码：v448
+链接：https://pan.baidu.com/s/1e-OVrtOmyuhlxJ7GZ90o1A?pwd=wjup
+提取码：wjup
 
 ## 013-Java核心技术面试精讲
-链接：https://pan.baidu.com/s/1f6_T8tZFYgEVD1tkBwdIqA 
-提取码：v448
+链接：https://pan.baidu.com/s/1KEqwJHEtVk5SJM13xyi2GA?pwd=wjup
+提取码：wjup
 
 ## 014-趣谈网络协议
-链接：https://pan.baidu.com/s/1grh6Nx6duzEUJTwCk_JJ6g 
-提取码：v448
+链接：https://pan.baidu.com/s/17otVHwBnxSeCZ_G8C_v_DA?pwd=wjup
+提取码：wjup
 
 ## 015-从0开始学游戏开发
-链接：https://pan.baidu.com/s/1o8CHVmvbBm8u2IblI_-dLw 
-提取码：v448
+链接：https://pan.baidu.com/s/1KrOkuLH8msUX-nMSbd_eTA?pwd=wjup
+提取码：wjup
 
 ## 016-机器学习40讲
-链接：https://pan.baidu.com/s/1qZKdyWiybkY8VGM0DH1eYQ 
-提取码：v448
+链接：https://pan.baidu.com/s/18Lc0_MJ2gNZU4geN9eopPA?pwd=wjup
+提取码：wjup
 
 ## 017-软件测试52讲
-链接：https://pan.baidu.com/s/1yTUrXFlxVXB67nfSEH2hPg 
-提取码：v448
+链接：https://pan.baidu.com/s/1WmLvtdKzuUX2Ph_FrZ2U8g?pwd=wjup
+提取码：wjup
 
 ## 018-持续交付36讲
-链接：https://pan.baidu.com/s/1hceLK9eHVlc7ewwm1aGrCw 
-提取码：v448
+链接：https://pan.baidu.com/s/1o87don5nwF_OH-Dlhczz2w?pwd=wjup
+提取码：wjup
 
 ## 019-深入拆解Java虚拟机
-链接：https://pan.baidu.com/s/1FIRkHtrFs-tdbxZC3sFpdA 
-提取码：v448
+链接：https://pan.baidu.com/s/1rX43uaCxTxkTnf-izghuVQ?pwd=wjup
+提取码：wjup
 
 ## 020-邱岳的产品实战
-链接：https://pan.baidu.com/s/1-EgvZ-vXBA3-uDqm7nMwow 
-提取码：v448
+链接：https://pan.baidu.com/s/1jMEo6Be0RBdMaqkApd0qAQ?pwd=wjup
+提取码：wjup
 
 ## 021-程序员进阶攻略
-链接：https://pan.baidu.com/s/1nmc5mpQCpGjtXu2rOizK-g 
-提取码：v448
+链接：https://pan.baidu.com/s/1Fo_rjpU9VdxbrhgBRYcELA?pwd=wjup
+提取码：wjup
 
 ## 022-Go语言核心36讲
-链接：https://pan.baidu.com/s/11-lchdhUWd5afEvFDU54Mw 
-提取码：v448
+链接：https://pan.baidu.com/s/1wqlHwxOE_tJexo2fViqqHg?pwd=wjup
+提取码：wjup
 
 ## 023-技术管理实战36讲
-链接：https://pan.baidu.com/s/17S671MKyesWz53KG7QEa5g 
-提取码：v448
+链接：https://pan.baidu.com/s/1f8lVlrxJaFP4usJeNX9IGQ?pwd=wjup
+提取码：wjup
 
 ## 024-从0开始学微服务
-链接：https://pan.baidu.com/s/1Jae3U5bALWd8k9rMcPTqmQ 
-提取码：v448
+链接：https://pan.baidu.com/s/10NvJ2EiV1VaYRGG8snIOtg?pwd=wjup
+提取码：wjup
 
 ## 025-深入剖析Kubernetes
-链接：https://pan.baidu.com/s/1RWrgFABD4gU1dJ53XlLLAA 
-提取码：v448
+链接：https://pan.baidu.com/s/1ErK38UpdjrrupZ53AXt5DQ?pwd=wjup
+提取码：wjup
 
 ## 026-数据结构与算法之美
-链接：https://pan.baidu.com/s/1YPc7fgo0PtFV-UXD9Ckr6w 
-提取码：v448
+链接：https://pan.baidu.com/s/15jD-IJuqA3Mtr7h0gfIXvA?pwd=wjup
+提取码：wjup
 
 ## 027-如何设计一个秒杀系统
-链接：https://pan.baidu.com/s/1kcyt3jDZyc_-ifToU7Rhjg 
-提取码：v448
+链接：https://pan.baidu.com/s/1PwBs6DhZzgcSKOmoA6cmNQ?pwd=wjup
+提取码：wjup
 
 ## 028-白话法律42讲
-链接：https://pan.baidu.com/s/1XrZCtZFclZ8P2gwZtM0A3g 
-提取码：v448
+链接：https://pan.baidu.com/s/1a-3jhwfjlYJCsahQ4NbcBQ?pwd=wjup
+提取码：wjup
 
 ## 029-从0开始学大数据
-链接：https://pan.baidu.com/s/1qbdu2qg0TNYgn85286NddQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1lVn5SD36WTTH5ZvR6-URww?pwd=wjup
+提取码：wjup
 
 ## 030-MySQL实战45讲
-链接：https://pan.baidu.com/s/1G4DHiiQcEJEMy5fspxg3wg 
-提取码：v448
+链接：https://pan.baidu.com/s/17h56H-zkNJJBKyirYHu5eQ?pwd=wjup
+提取码：wjup
 
 ## 031-Linux性能优化实战
-链接：https://pan.baidu.com/s/1hfUD0QJdg1dB7ANvjsNRfg 
-提取码：v448
+链接：https://pan.baidu.com/s/1WfIFok-6yiDuykFTgIjSxw?pwd=wjup
+提取码：wjup
 
 ## 032-Android开发高手课
-链接：https://pan.baidu.com/s/162ly4wa1jfvKje4YHzst2Q 
-提取码：v448
+链接：https://pan.baidu.com/s/1MhzEhRPQ_G0dgKml3IlmPA?pwd=wjup
+提取码：wjup
 
 ## 033-程序员的数学基础课
-链接：https://pan.baidu.com/s/1fWEe24ol-IXjxFY4H0vtEQ 
-提取码：v448
+链接：https://pan.baidu.com/s/10gDdrDbpP0Un6N9P7rCSIA?pwd=wjup
+提取码：wjup
 
 ## 034-数据分析实战45讲
-链接：https://pan.baidu.com/s/1Uh4eZjllJVhMgtvOFh9M5w 
-提取码：v448
+链接：https://pan.baidu.com/s/1OBLY0irGIRtjphMC6hWvyQ?pwd=wjup
+提取码：wjup
 
 ## 035-10x程序员工作法
-链接：https://pan.baidu.com/s/1nzKzKGGuB4LiCFyN5zL2_Q 
-提取码：v448
+链接：https://pan.baidu.com/s/1YyEAU-WN4VOg4_PZxno_yQ?pwd=wjup
+提取码：wjup
 
 ## 036-代码精进之路
-链接：https://pan.baidu.com/s/1_m7jCPWmnYCjeN8wCTGv0w 
-提取码：v448
+链接：https://pan.baidu.com/s/1-2tBxn0amLaraOeBdXB76Q?pwd=wjup
+提取码：wjup
 
 ## 037-重学前端
-链接：https://pan.baidu.com/s/1hfqORMAtHANRDOyhLkKJCA 
-提取码：v448
+链接：https://pan.baidu.com/s/1hdoG_TZvAMetbQQm-cgG7w?pwd=wjup
+提取码：wjup
 
 ## 038-面试现场
-链接：https://pan.baidu.com/s/1_oV72u1Ben_J88MwFVeaWw 
-提取码：v448
+链接：https://pan.baidu.com/s/1jq0y_SJvM4XI3g0QZRVDuQ?pwd=wjup
+提取码：wjup
 
 ## 039-软件工程之美
-链接：https://pan.baidu.com/s/1rpxB1lG22VpjkyFueE8M-g 
-提取码：v448
+链接：https://pan.baidu.com/s/1-zc2IW6r39XFAzntK9VyTw?pwd=wjup
+提取码：wjup
 
 ## 040-Java并发编程实战
-链接：https://pan.baidu.com/s/1aFGCALBPPy-6p_1PZUrkjw 
-提取码：v448
+链接：https://pan.baidu.com/s/1_FvoPNXw513BZXzRsGqc_w?pwd=wjup
+提取码：wjup
 
 ## 041-iOS开发高手课
-链接：https://pan.baidu.com/s/1JmRpxy7vRPrzW6EnmnOXVQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1TKklNdqFuBEouFif33bDvw?pwd=wjup
+提取码：wjup
 
 ## 042-趣谈Linux操作系统
-链接：https://pan.baidu.com/s/1TBO7eM2XIv62fDlr6ck1Ow 
-提取码：v448
+链接：https://pan.baidu.com/s/1YF-KO-b_1Yp1kWilIIchzg?pwd=wjup
+提取码：wjup
 
 ## 043-从0开始做增长
-链接：https://pan.baidu.com/s/1jAT-7k8uTxt7lDAkS2obmg 
-提取码：v448
+链接：https://pan.baidu.com/s/1p2ic8-RwNnta2FyqXcCtSQ?pwd=wjup
+提取码：wjup
 
 ## 044-许式伟的架构课
-链接：https://pan.baidu.com/s/1kJFd6P--gy8F26w7B8FN6w 
-提取码：v448
+链接：https://pan.baidu.com/s/1uQTOFK5RObZTtw-Lsjm1Rw?pwd=wjup
+提取码：wjup
 
 ## 045-大规模数据处理实战
-链接：https://pan.baidu.com/s/1rhqCG9ejwfG5oZLcIS3maQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1Y_xoFmL3mZYGvK2IB4AoVA?pwd=wjup
+提取码：wjup
 
 ## 046-深入浅出计算机组成原理
-链接：https://pan.baidu.com/s/1RNciB5X2cU5-rlC9MI8u6Q 
-提取码：v448
+链接：https://pan.baidu.com/s/1qlKqdy-cW1G5dWPqvP02tQ?pwd=wjup
+提取码：wjup
 
 ## 047-Python核心技术与实战
-链接：https://pan.baidu.com/s/1_Vn_TcT3QbMGRkEedzBmfA 
-提取码：v448
+链接：https://pan.baidu.com/s/1W80v-vRt8XMOonvaM5orYg?pwd=wjup
+提取码：wjup
 
 ## 048-深入拆解Tomcat&Jetty
-链接：https://pan.baidu.com/s/182-ceICkPeNylLZN9kcHcw 
-提取码：v448
+链接：https://pan.baidu.com/s/13iOkxLKXZZOyj-YTudMAlQ?pwd=wjup
+提取码：wjup
 
 ## 049-Java性能调优实战
-链接：https://pan.baidu.com/s/1qLXWBEQ-81QKlw55lhrecQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1PReA1JbEVBUOXh3Cb635sQ?pwd=wjup
+提取码：wjup
 
 ## 050-OpenResty从入门到实战
-链接：https://pan.baidu.com/s/1T60b7WhCTzpQ69Pp4VFZoQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1zfhW07FGtEENRPgfINQ9pg?pwd=wjup
+提取码：wjup
 
 ## 051-透视HTTP协议
-链接：https://pan.baidu.com/s/1iwb9AZODDCgCzfdT2WyemA 
-提取码：v448
+链接：https://pan.baidu.com/s/1VG3V9QPfy7XQi7CRIMCarg?pwd=wjup
+提取码：wjup
 
 ## 052-Kafka核心技术与实战
-链接：https://pan.baidu.com/s/1zh4zjqtseefqWePuibZCyA 
-提取码：v448
+链接：https://pan.baidu.com/s/1bKZGNqo5kRFYomfN74ZDMw?pwd=wjup
+提取码：wjup
 
 ## 053-SQL必知必会
-链接：https://pan.baidu.com/s/1ZtqSc--YBtgjiJo_V8us_A 
-提取码：v448
+链接：https://pan.baidu.com/s/1EniRocneqiRHtx1Gtjc82A?pwd=wjup
+提取码：wjup
 
 ## 054-黄勇的OKR实战笔记
-链接：https://pan.baidu.com/s/1zMEjRylthKTGCYR1KWv_eg 
-提取码：v448
+链接：https://pan.baidu.com/s/1aZHKRRoLW1K9ad-M1oLARw?pwd=wjup
+提取码：wjup
 
 ## 055-Flutter核心技术与实战
-链接：https://pan.baidu.com/s/1C422AdBSO593inCPQMIXug 
-提取码：v448
+链接：https://pan.baidu.com/s/14dqTyr_Cog-3crK1lhxCxA?pwd=wjup
+提取码：wjup
 
 ## 056-编辑训练营
-链接：https://pan.baidu.com/s/14-bO2oqCKYxE7d7BL94wqg 
-提取码：v448
+链接：https://pan.baidu.com/s/1bKyswJQ5UEUW9PFW8YJW0Q?pwd=wjup
+提取码：wjup
 
 ## 057-从0打造音视频直播系统
-链接：https://pan.baidu.com/s/17lFLoCiyD0NmybClDyc2qQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1EcdoNYeh7TKX0GRaSVg_rQ?pwd=wjup
+提取码：wjup
 
 ## 058-消息队列高手课
-链接：https://pan.baidu.com/s/1dGRpCi4GP9VFnrLCiJnXZg 
-提取码：v448
+链接：https://pan.baidu.com/s/10Gq1x1DcSesHkKxYSpUY3A?pwd=wjup
+提取码：wjup
 
 ## 059-网络编程实战
-链接：https://pan.baidu.com/s/1_YUEx8uIPNthnY1VFdAyzg 
-提取码：v448
+链接：https://pan.baidu.com/s/1wgmKzVPsi4qzSi-3bXdg8Q?pwd=wjup
+提取码：wjup
 
 ## 060-浏览器工作原理与实践
-链接：https://pan.baidu.com/s/1WDmXBDRN8_RHBrpK2iK7gw 
-提取码：v448
+链接：https://pan.baidu.com/s/16l58WbqvWsRSrJkIdz3X7A?pwd=wjup
+提取码：wjup
 
 ## 061-编译原理之美
-链接：https://pan.baidu.com/s/1XjD9GMioL_sP8Ys6SZCrIg 
-提取码：v448
+链接：https://pan.baidu.com/s/1i2bXcdZc2CWOcmOiUXbcZQ?pwd=wjup
+提取码：wjup
 
 ## 062-研发效率破局之道
-链接：https://pan.baidu.com/s/1pAgcX17ydQRL7qsOk5IfWw 
-提取码：v448
+链接：https://pan.baidu.com/s/1EY0v7bhlhqm2mzynFLRocw?pwd=wjup
+提取码：wjup
 
 ## 063-即时消息技术剖析与实战
-链接：https://pan.baidu.com/s/1gWKX-SiwGiV09oQNmGZqNg 
-提取码：v448
+链接：https://pan.baidu.com/s/1iYei8bm2hbyhb3FeBtZk1Q?pwd=wjup
+提取码：wjup
 
 ## 064-全栈工程师修炼指南
-链接：https://pan.baidu.com/s/1CXGA2x0u9FJZ5aX8wQ51VQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1dUHIiChtQEdIwy4pi-gC3A?pwd=wjup
+提取码：wjup
 
 ## 065-高并发系统设计40问
-链接：https://pan.baidu.com/s/1pzz-hPgFJG7xfEibh24wEA 
-提取码：v448
+链接：https://pan.baidu.com/s/1zDHwdpcmTSeEGvnneKipnw?pwd=wjup
+提取码：wjup
 
 ## 066-分布式技术原理与算法解析
-链接：https://pan.baidu.com/s/1MFl6FCsnkKx5TnQhoPtqSQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1wVCfqnskkwYfhFX3gl2Ylw?pwd=wjup
+提取码：wjup
 
 ## 067-说透中台
-链接：https://pan.baidu.com/s/1dtjB_HKJJIBW6D-Ewa1kIQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1Y5B5NFi7Oacn05MrwQawfw?pwd=wjup
+提取码：wjup
 
 ## 068-DevOps实战笔记
-链接：https://pan.baidu.com/s/1bjKTpTZgqi3xuEVF-xCVrw 
-提取码：v448
+链接：https://pan.baidu.com/s/1pHBEIKYMQPSZFJf2Q208Qw?pwd=wjup
+提取码：wjup
 
 ## 069-DDD实战课
-链接：https://pan.baidu.com/s/1JL5FayDWe57MqdJ7H8v14Q 
-提取码：v448
+链接：https://pan.baidu.com/s/1ok8gYi6KmZfba9L8CGJuyA?pwd=wjup
+提取码：wjup
 
 ## 070-苏杰的产品创新课
-链接：https://pan.baidu.com/s/188JI7Vb7gr7RAL6aAX9OSg 
-提取码：v448
+链接：https://pan.baidu.com/s/1jxxkZ6pYH9R3uasdLMqd7Q?pwd=wjup
+提取码：wjup
 
 ## 071-雷蓓蓓的项目管理实战课
-链接：https://pan.baidu.com/s/1swn6NuNWBwL5rZgf2OedyA 
-提取码：v448
+链接：https://pan.baidu.com/s/1I_aSUBG44Up-RSgGvdMD1Q?pwd=wjup
+提取码：wjup
 
 ## 072-设计模式之美
-链接：https://pan.baidu.com/s/1KHb-AWmvD_js3YYtI3P8MQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1jL0_O0XeF_CzjgD2W6YK-w?pwd=wjup
+提取码：wjup
 
 ## 073-JavaScript核心原理解析
-链接：https://pan.baidu.com/s/1JWojdrv6eqNbcDMhdmoA-A 
-提取码：v448
+链接：https://pan.baidu.com/s/1u6mwmZg7KFmAQb64W35kIg?pwd=wjup
+提取码：wjup
 
 ## 074-后端技术面试38讲
-链接：https://pan.baidu.com/s/1IfjPn5RFN2709Vcm1pfLjQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1IcMfDukMrnFuRloPkl74cg?pwd=wjup
+提取码：wjup
 
 ## 075-现代C++编程实战
-链接：https://pan.baidu.com/s/1CW69xELX2yro1TD2DUuWUw 
-提取码：v448
+链接：https://pan.baidu.com/s/19ub964UVAh_IUTeFrLiNHQ?pwd=wjup
+提取码：wjup
 
 ## 076-性能工程高手课
-链接：https://pan.baidu.com/s/12Wh2c0yTxPd2NFRjsmZZEg 
-提取码：v448
+链接：https://pan.baidu.com/s/1w3anLSLwqlC_dI4Ddw-YsA?pwd=wjup
+提取码：wjup
 
 ## 077-安全攻防技能30讲
-链接：https://pan.baidu.com/s/191xrpjezN2YIqAGJQBbfXg 
-提取码：v448
+链接：https://pan.baidu.com/s/1PVtHkdCdHWtIdePTYEMVDw?pwd=wjup
+提取码：wjup
 
 ## 078-性能测试实战30讲
-链接：https://pan.baidu.com/s/16DPhE3Vf_mYA1JqeJBdiEA 
-提取码：v448
+链接：https://pan.baidu.com/s/1A01legp3nKQfJIN5drc3Eg?pwd=wjup
+提取码：wjup
 
 ## 079-摄影入门课
-链接：https://pan.baidu.com/s/1UWIAnUF49byd4dE_6HToiw 
-提取码：v448
+链接：https://pan.baidu.com/s/1vbUnaV3trA5j7mOnhqNSDA?pwd=wjup
+提取码：wjup
 
 ## 080-人人都能学会的编程入门课
-链接：https://pan.baidu.com/s/1bZjNjehmdsd5K9sz0LxQmg 
-提取码：v448
+链接：https://pan.baidu.com/s/17n9BSAMsoEQ2uqAMxJK7ow?pwd=wjup
+提取码：wjup
 
 ## 081-说透敏捷
-链接：https://pan.baidu.com/s/1a7US9MWkSefZrzJEknEf4A 
-提取码：v448
+链接：https://pan.baidu.com/s/1kCWKlC_kBr_hfsHKgn718w?pwd=wjup
+提取码：wjup
 
 ## 082-接口测试入门课
-链接：https://pan.baidu.com/s/1UCaRyti_SogvncBU-dThvA 
-提取码：v448
+链接：https://pan.baidu.com/s/1b-0RrIZxRGQs34AK-D63mg?pwd=wjup
+提取码：wjup
 
 ## 083-分布式协议与算法实战
-链接：https://pan.baidu.com/s/1BFeh6scMgxDZyrsHwKe76A 
-提取码：v448
+链接：https://pan.baidu.com/s/1H5DvQcnhVAASSs_c-G3bBw?pwd=wjup
+提取码：wjup
 
 ## 084-RPC实战与核心原理
-链接：https://pan.baidu.com/s/11dMHTaaSspWYZG1pcp1czg 
-提取码：v448
+链接：https://pan.baidu.com/s/1bzk9WEyTogv9V61I99oeTg?pwd=wjup
+提取码：wjup
 
 ## 085-架构实战案例解析
-链接：https://pan.baidu.com/s/1gU_RLu8T6In4XPJdEip4ZA 
-提取码：v448
+链接：https://pan.baidu.com/s/1MFBXCvUJU981mvHy9THLgA?pwd=wjup
+提取码：wjup
 
 ## 086-后端存储实战课
-链接：https://pan.baidu.com/s/1ib7F8Eddh5_0wu7ELVXO6g 
-提取码：v448
+链接：https://pan.baidu.com/s/1u_OLV6FmR9NyedRgGq3Hcw?pwd=wjup
+提取码：wjup
 
 ## 087-深入浅出云计算
-链接：https://pan.baidu.com/s/1vCPV1loWArWO9rdgDuCAbQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1u7CMZbZA_xBbk4t832ZERg?pwd=wjup
+提取码：wjup
 
 ## 088-Java业务开发常见错误100例
-链接：https://pan.baidu.com/s/1snyxCyh78P9fEhGwoBmdqg 
-提取码：v448
+链接：https://pan.baidu.com/s/1Kom4Q2D24LocK4QRgPPofw?pwd=wjup
+提取码：wjup
 
 ## 089-图解GoogleV8
-链接：https://pan.baidu.com/s/1W0x9WV7I7xhdwD2U9uW2EA 
-提取码：v448
+链接：https://pan.baidu.com/s/1DAfd8i_VUOduEC6Mb0YnKw?pwd=wjup
+提取码：wjup
 
 ## 090-SRE实战手册
-链接：https://pan.baidu.com/s/1OGll43VzshBRw7B1ErMg-g 
-提取码：v448
+链接：https://pan.baidu.com/s/1ku7D0PZalwogJm1lEP9yBg?pwd=wjup
+提取码：wjup
 
 ## 091-检索技术核心20讲
-链接：https://pan.baidu.com/s/1wc7ev2WZ4ZwYhspnEX-n5Q 
-提取码：v448
+链接：https://pan.baidu.com/s/18OK_KTIg-sFz688JBaKmkA?pwd=wjup
+提取码：wjup
 
 ## 092-数据中台实战课
-链接：https://pan.baidu.com/s/1NwdczaScygA42AFR7sSpQQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1NByM4Yytqyte0oubaXM8Aw?pwd=wjup
+提取码：wjup
 
 ## 093-Kafka核心源码解读
-链接：https://pan.baidu.com/s/1NSUfo4yrfB9LW-IndnJ-AQ 
-提取码：v448
+链接：https://pan.baidu.com/s/16HIYeiSchcuZizfnN32mQA?pwd=wjup
+提取码：wjup
 
 ## 094-Serverless入门课
-链接：https://pan.baidu.com/s/1JrOtBMk51GmaG-VRTF8hMw 
-提取码：v448
+链接：https://pan.baidu.com/s/1ff8d52EisTP7fhQzlJVUVw?pwd=wjup
+提取码：wjup
 
 ## 095-视觉笔记入门课
-链接：https://pan.baidu.com/s/1FDuKgUmqXZh_mjRk700BfA 
-提取码：v448
+链接：https://pan.baidu.com/s/1I_gYdNFqtLawLxpOrw3wfQ?pwd=wjup
+提取码：wjup
 
 ## 096-系统性能调优必知必会
-链接：https://pan.baidu.com/s/1ZER6rofLto-pKFqXdaueJA 
-提取码：v448
+链接：https://pan.baidu.com/s/1YVdv_3qRaJlpNiWz63_hvw?pwd=wjup
+提取码：wjup
 
 ## 097-罗剑锋的C++实战笔记
-链接：https://pan.baidu.com/s/1PlUI9TPqyijW2xPgt906hg 
-提取码：v448
+链接：https://pan.baidu.com/s/145y_Rl9F4nH8nthOv-rCmw?pwd=wjup
+提取码：wjup
 
 ## 098-互联网人的英语私教课
-链接：https://pan.baidu.com/s/1BjEyUZP1fkkY0dV_FsFmSA 
-提取码：v448
+链接：https://pan.baidu.com/s/11aXaXJ_MvHQ839Q0wb8Lnw?pwd=wjup
+提取码：wjup
 
 ## 099-职场求生攻略
-链接：https://pan.baidu.com/s/18F1ukuONRe6MG4tOrQiNQQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1f8gQQ1ktHuZC0DiRoB0uuQ?pwd=wjup
+提取码：wjup
 
 ## 100软件设计之美
-链接：https://pan.baidu.com/s/1WuxCM8Fcjouua5Dg4z0LqA 
-提取码：v448
+链接：https://pan.baidu.com/s/1L3xRBJJrdvV2cEgZeHdG7g?pwd=wjup
+提取码：wjup
 
 ## 101编译原理实战课
-链接：https://pan.baidu.com/s/1_oGb6SgmabaKVfFpM2m8Yg 
-提取码：v448
+链接：https://pan.baidu.com/s/1-7tWkd7gTdP9CKVktEYXuQ?pwd=wjup
+提取码：wjup
 
 ## 102正则表达式入门课
-链接：https://pan.baidu.com/s/1uxEhdVstN0rCV5cVhIbYYA 
-提取码：v448
+链接：https://pan.baidu.com/s/1GmVDwEMM6xsjff-6qXQnsA?pwd=wjup
+提取码：wjup
 
 ## 103跟月影学可视化
-链接：https://pan.baidu.com/s/1dY8dcdOqhhUPBcDWgKC_rQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1lOVzLDiYcQe9G4kxpVlwmg?pwd=wjup
+提取码：wjup
 
 ## 104OAuth2.0实战课
-链接：https://pan.baidu.com/s/1DTvrPP5k1zSzn_qH6VBOig 
-提取码：v448
+链接：https://pan.baidu.com/s/14VrSF8_3W07Y1LEMhMTAjQ?pwd=wjup
+提取码：wjup
 
 ## 105Vim实用技巧必知必会
-链接：https://pan.baidu.com/s/1O83X5VES8RjyOhMhjO8Vsw 
-提取码：v448
+链接：https://pan.baidu.com/s/1q1rwiaNDHmRp4poYMtGOXg?pwd=wjup
+提取码：wjup
 
 ## 106如何看懂一幅画
-链接：https://pan.baidu.com/s/1BVgblKV9er-3kyH8_hY6fw 
-提取码：v448
+链接：https://pan.baidu.com/s/1U2TPywsZcSxDIKdhY5WcVg?pwd=wjup
+提取码：wjup
 
 ## 107重学线性代数
-链接：https://pan.baidu.com/s/1QJXMyjNw2bBd86NmTLhH5A 
-提取码：v448
+链接：https://pan.baidu.com/s/1fEqSTUgeP8siGamD6_ma9Q?pwd=wjup
+提取码：wjup
 
 ## 108Redis核心技术与实战
-链接：https://pan.baidu.com/s/1TOEYXf_Kz48eOH5i5_KVHQ 
-提取码：v448
+链接：https://pan.baidu.com/s/16PZe4TYenEocPptrZGYrtA?pwd=wjup
+提取码：wjup
 
 ## 109分布式数据库30讲
-链接：https://pan.baidu.com/s/1OmXOeuMydP_ARRBQcjMTgg 
-提取码：v448
+链接：https://pan.baidu.com/s/1UEZHfpz6DwBxJS-dy-L3Lw?pwd=wjup
+提取码：wjup
 
 ## 110ToB市场品牌实战课
-链接：https://pan.baidu.com/s/1n-yKjpD4vI9VGhOQBzidoA 
-提取码：v448
+链接：https://pan.baidu.com/s/1v6r3Ynbean4ir6nrFJXjcQ?pwd=wjup
+提取码：wjup
 
 ## 111Linux内核技术实战课
-链接：https://pan.baidu.com/s/1xzGRCiiwNh05mwkvkNcDxQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1vYuWC1KoztyJ7q6De1fw_g?pwd=wjup
+提取码：wjup
 
 ## 112技术管理案例课
-链接：https://pan.baidu.com/s/1PN2D-q4-vvW0tA9NKFyS_w 
-提取码：v448
+链接：https://pan.baidu.com/s/1mJxoa6oPdSBMiagBJM4O7w?pwd=wjup
+提取码：wjup
 
 ## 113用户体验设计实战课
-链接：https://pan.baidu.com/s/1IGw_Huyn_AtiNLGjVwUYTw 
-提取码：v448
+链接：https://pan.baidu.com/s/13JZMI-4h447vf2-FuSsVZw?pwd=wjup
+提取码：wjup
 
 ## 114WebAssembly入门课
-链接：https://pan.baidu.com/s/1bkQj9kbPW6RcLgQzebh8aQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1Ihx0adZkeDpISu-6y71xjw?pwd=wjup
+提取码：wjup
 
 ## 115动态规划面试宝典
-链接：https://pan.baidu.com/s/1vpqIV6ka_w4EFI-jPkB1gg 
-提取码：v448
+链接：https://pan.baidu.com/s/1RCOwFSOLxCQta1TYySX1Zg?pwd=wjup
+提取码：wjup
 
 ## 116深度学习推荐系统实战
-链接：https://pan.baidu.com/s/1eYJH8wkFV_vYvI80VaNtBQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1xC9syWRjAPA1ZzsoE3_rXw?pwd=wjup
+提取码：wjup
 
 ## 117爱上跑步
-链接：https://pan.baidu.com/s/1iEJ5ZX8FhTBujqVNl6yJMw 
-提取码：v448
+链接：https://pan.baidu.com/s/1q3kjQ9xlpCcxN5Gc6oGVFg?pwd=wjup
+提取码：wjup
 
 ## 118Go并发编程实战课
-链接：https://pan.baidu.com/s/1-KpNOUm9ZsUVKZcwYEYsrA 
-提取码：v448
+链接：https://pan.baidu.com/s/1Z60Zd03rwgIQrJEfD9bcaA?pwd=wjup
+提取码：wjup
 
 ## 119人人都用得上的写作课
-链接：https://pan.baidu.com/s/1q3xZvgKvsbzMvHsd36cuAQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1YzS_A1nf4A-Z69F0mZjEDg?pwd=wjup
+提取码：wjup
 
 ## 120手机摄影
-链接：https://pan.baidu.com/s/1mMBkDSbIOpjHqKeZJScfXQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1pEk3KcLyk1nr8FN3dk-Ung?pwd=wjup
+提取码：wjup
 
 ## 121乔新亮的CTO成长复盘
-链接：https://pan.baidu.com/s/1G7TUqI4dUlPat7hF7RzaFA 
-提取码：v448
+链接：https://pan.baidu.com/s/1LLBM79zTyH4TYyPQ31vtaA?pwd=wjup
+提取码：wjup
 
 ## 122物联网开发实战
-链接：https://pan.baidu.com/s/1RnqAbOgqn8SgFcFX93gobQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1NsAbEKIXdeSa9bP6X4k97A?pwd=wjup
+提取码：wjup
 
 ## 123容器实战高手课
-链接：https://pan.baidu.com/s/1OWF7HIdae8h2C1O3osUEDA 
-提取码：v448
+链接：https://pan.baidu.com/s/16qD4O2_Y2cMZv8HSARrhpw?pwd=wjup
+提取码：wjup
 
 ## 124实用密码学
-链接：https://pan.baidu.com/s/1dyVpVcEoSAIv3imfO3mKmA 
-提取码：v448
+链接：https://pan.baidu.com/s/1Y9tBc03ak1kaYoqvxhtMYg?pwd=wjup
+提取码：wjup
 
 ## 125大厂晋升指南
-链接：https://pan.baidu.com/s/1OQSU19EG2P206RNJZDEWXw 
-提取码：v448
+链接：https://pan.baidu.com/s/15J65pulkbNUMKh1uE-Xa_A?pwd=wjup
+提取码：wjup
 
 ## 126A-B测试从0到1
-链接：https://pan.baidu.com/s/10icPW8kMD5xt_qaEYccLVQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1kjLED55Y5FCf56Q4tRKx2w?pwd=wjup
+提取码：wjup
 
 ## 127成为AI产品经理
-链接：https://pan.baidu.com/s/1GUJyigVUv-rAvHsXxmyLFw 
-提取码：v448
+链接：https://pan.baidu.com/s/1wgWJsezb-pUb9XnIRxyilw?pwd=wjup
+提取码：wjup
 
 ## 128分布式金融架构课
-链接：https://pan.baidu.com/s/1yodXVef4rhx3UEqa4tiJQw 
-提取码：v448
+链接：https://pan.baidu.com/s/11Zdnw1UKb8R5TE9hobawAQ?pwd=wjup
+提取码：wjup
 
 ## 129代码之丑
-链接：https://pan.baidu.com/s/1iTJ9qdeA921N7kZQHwyySA 
-提取码：v448
+链接：https://pan.baidu.com/s/1TG1vcifDPMcuzCLDw7l1zw?pwd=wjup
+提取码：wjup
 
 ## 130体验设计案例课
-链接：https://pan.baidu.com/s/1LCvf6cFIvNOGVLhn4Baf6Q 
-提取码：v448
+链接：https://pan.baidu.com/s/1fqxrF3YDK-2gxVqHLDSHHA?pwd=wjup
+提取码：wjup
 
 ## 131手把手教你玩音乐
-链接：https://pan.baidu.com/s/114boDSa6-hq6llTKEtSTlw 
-提取码：v448
+链接：https://pan.baidu.com/s/1gNYEheI24N7XjEW1ObcizA?pwd=wjup
+提取码：wjup
 
 ## 132etcd实战课
-链接：https://pan.baidu.com/s/1U96gIEuh-JcBYxNowqDjtw 
-提取码：v448
+链接：https://pan.baidu.com/s/1LVbp1AwbJVP2Dus0xCKMbg?pwd=wjup
+提取码：wjup
 
 ## 133恋爱必修课
-链接：https://pan.baidu.com/s/1U4nWo5vyxfpe6brUpsrJHQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1N0TTjw-3lC4Q_6xNbELdAA?pwd=wjup
+提取码：wjup
 
 ## 134跟着高手学复盘
-链接：https://pan.baidu.com/s/1UcKGgsB6wkwBmKV593ARfw 
-提取码：v448
+链接：https://pan.baidu.com/s/1B_ncoo3TKpOcxuNaNmPh_w?pwd=wjup
+提取码：wjup
 
 ## 135Python自动化办公实战课
-链接：https://pan.baidu.com/s/1lpcWeBjOldIv1nFIMNkTlA 
-提取码：v448
+链接：https://pan.baidu.com/s/15iMieHe4Wg-lxK9ltuMAlw?pwd=wjup
+提取码：wjup
 
 ## 136基于人因的用户体验设计课
-链接：https://pan.baidu.com/s/1g7yYwZ_pbmVLxvSeEUFbGg 
-提取码：v448
+链接：https://pan.baidu.com/s/1SJGCd6Mgr32Nkzsk_GLL0w?pwd=wjup
+提取码：wjup
 
 ## 137打造爆款短视频
-链接：https://pan.baidu.com/s/1Kimu163o8ETTo5FiOxU2qw 
-提取码：v448
+链接：https://pan.baidu.com/s/1Qm9vzFNnY51rny_2rcAHOw?pwd=wjup
+提取码：wjup
 
 ## 138MySQL必知必会
-链接：https://pan.baidu.com/s/1cPyrDkDL0oBNGZS1lQZ3Cw 
-提取码：v448
+链接：https://pan.baidu.com/s/1Sh2O9WVnlXHztDqXyX53vQ?pwd=wjup
+提取码：wjup
 
 ## 139流程型组织15讲
-链接：https://pan.baidu.com/s/14uNQ3UUCrp7RNqZGHyMd2w 
-提取码：v448
+链接：https://pan.baidu.com/s/13i4LaWXkaHL3YRdZGSFDMQ?pwd=wjup
+提取码：wjup
 
 ## 140Spark性能调优实战
-链接：https://pan.baidu.com/s/1hbUDjqCczkPSTHAF28QJqg 
-提取码：v448
+链接：https://pan.baidu.com/s/18jztqeXeOy9LIJu9He_7ow?pwd=wjup
+提取码：wjup
 
 ## 141高楼的性能工程实战课
-链接：https://pan.baidu.com/s/1k56G1t2KgB3wrsWf7Aks-g 
-提取码：v448
+链接：https://pan.baidu.com/s/1xTyHmxn0auzpvdFeorwb9A?pwd=wjup
+提取码：wjup
 
 ## 142技术面试官识人手册
-链接：https://pan.baidu.com/s/16wZeyRzyO33i7_PGL_7t2w 
-提取码：v448
+链接：https://pan.baidu.com/s/1IVYKtO8iGlxTTzGHGlRUTA?pwd=wjup
+提取码：wjup
 
 ## 143说透数字化转型
-链接：https://pan.baidu.com/s/1AUjViCcqtcGZbD3TzXxozQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1m27Sr6z8HfA7qj_Php7TUg?pwd=wjup
+提取码：wjup
 
 ## 144Spring编程常见错误50例
-链接：https://pan.baidu.com/s/1PaMXvD97kWHvA_m-EVNoQw 
-提取码：v448
+链接：https://pan.baidu.com/s/1QTL-rvDckCLQEnwChHY93Q?pwd=wjup
+提取码：wjup
 
 ## 145操作系统实战45讲
-链接：https://pan.baidu.com/s/1-lm72iegFKpjjJjMh-2sYA 
-提取码：v448
+链接：https://pan.baidu.com/s/1TYfd-8qLc0BbUMGainRjNg?pwd=wjup
+提取码：wjup
 
 ## 146容量保障核心技术与实战
-链接：https://pan.baidu.com/s/1tzWioznvLcNig3wwPr8P4Q 
-提取码：v448
+链接：https://pan.baidu.com/s/12MaUISzd0cJO7i445CB56g?pwd=wjup
+提取码：wjup
 
 ## 147性能优化高手课
-链接：https://pan.baidu.com/s/1JDUs3r-XOljJJnPVD3bMBw 
-提取码：v448
+链接：https://pan.baidu.com/s/199tGF1yCsOT9DZS7hEkFxw?pwd=wjup
+提取码：wjup
 
 ## 148说透芯片
-链接：https://pan.baidu.com/s/1G_1WRlme2Ne9LfCsit5-uA 
-提取码：v448
+链接：https://pan.baidu.com/s/1vSYFoOf72A1MXP0ZbACiNw?pwd=wjup
+提取码：wjup
 
 ## 149ReactHooks核心原理与实战
-链接：https://pan.baidu.com/s/1hIjEodqAQ9e8Kaf6bzo6Jg 
-提取码：v448
+链接：https://pan.baidu.com/s/1Td4OOxT4e4MGKDbDWJIcbw?pwd=wjup
+提取码：wjup
 
 ## 150Go语言项目开发实战
-链接：https://pan.baidu.com/s/19gvKO2oD62bXVvta7pVYsA 
-提取码：v448
+链接：https://pan.baidu.com/s/1Az302wYZBGwWHzcpAmXHhQ?pwd=wjup
+提取码：wjup
 
 ## 151说透5G
-链接：https://pan.baidu.com/s/1UHVdKGp5-MdgmPjobK-e_A 
-提取码：v448
+链接：https://pan.baidu.com/s/1oHdyzsKNRR-wsQj7aLFYig?pwd=wjup
+提取码：wjup
 
 ## 152如何成为学习高手
-链接：https://pan.baidu.com/s/1WyyvNSuZYGveaTzEK9VKxQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1W0Yi0yCJc7g1pfECRFuymQ?pwd=wjup
+提取码：wjup
 
 ## 153如何读懂一首诗
-链接：https://pan.baidu.com/s/1OMOrYtDsRr2pPflBMv1nDA 
-提取码：v448
+链接：https://pan.baidu.com/s/156D7bMVEmk2L5l3UCQ5sug?pwd=wjup
+提取码：wjup
 
 ## 154如何落地业务建模
-链接：https://pan.baidu.com/s/17Jpas3pWcJ2xhU_8u4TdbA 
-提取码：v448
+链接：https://pan.baidu.com/s/1bvFxWp7WzilWxxqqHQHn6g?pwd=wjup
+提取码：wjup
 
 ## 155讲好故事
-链接：https://pan.baidu.com/s/19EyHmmtFTfzTSYlN5pRfHA 
-提取码：v448
+链接：https://pan.baidu.com/s/1z5einsyH3G3M0VYJlMKCDw?pwd=wjup
+提取码：wjup
 
 ## 156程序员的个人财富课
-链接：https://pan.baidu.com/s/1jsBGoW25-t_tSsbruPF3Iw 
-提取码：v448
+链接：https://pan.baidu.com/s/1pyDahlES74eeSm_1q87bdw?pwd=wjup
+提取码：wjup
 
 ## 157说透区块链
-链接：https://pan.baidu.com/s/1LltvhUtzRT33ZfhUAE6MTQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1GAwkHj6hWqe5aeITEItEbQ?pwd=wjup
+提取码：wjup
 
 ## 158Redis源码剖析与实战
-链接：https://pan.baidu.com/s/1woW-Sw37pCBIFrqJ52P6gg 
-提取码：v448
+链接：https://pan.baidu.com/s/1X27eztUsw73Usws-Y5DW6g?pwd=wjup
+提取码：wjup
 
 ## 159数据分析思维课
-链接：https://pan.baidu.com/s/1jCvmGhsyI_6RBx6W86jG7g 
-提取码：v448
+链接：https://pan.baidu.com/s/1hHCKiug61XntoqDGArfSPw?pwd=wjup
+提取码：wjup
 
 ## 160程序员的测试课
-链接：https://pan.baidu.com/s/1IR9pDkFhBWvOxqzLYE9cLQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1gnWaFwdm9OY0a8v310v2_A?pwd=wjup
+提取码：wjup
 
 ## 161陈天·Rust编程第一课
-链接：https://pan.baidu.com/s/19_MV2xuushNL_Kw3_pkFBQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1ec3sLOh--dPa_MU__5s-_Q?pwd=wjup
+提取码：wjup
 
 ## 162手把手带你写一门编程语言
-链接：https://pan.baidu.com/s/12EBuuBw7B07-fF_YkZQlaQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1P7G8CUCbhxiaNKAcaHIJ4A?pwd=wjup
+提取码：wjup
 
 ## 163零基础实战机器学习
-链接：https://pan.baidu.com/s/1cp4H-eC7wm9r_YzbKUEeMA 
-提取码：v448
+链接：https://pan.baidu.com/s/1WVb6yT-HgLoeLvEHTJU8pQ?pwd=wjup
+提取码：wjup
 
 ## 164零基础入门Spark
-链接：https://pan.baidu.com/s/1sBt7Sxvzt7WEU0xsc9UYDQ 
-提取码：v448
+链接：https://pan.baidu.com/s/16LIIrBzZaNPS6YuoyqZQug?pwd=wjup
+提取码：wjup
 
 ## 165手把手带你写一个Web框架
-链接：https://pan.baidu.com/s/1LOir-OmtV-5RsQLoiOuunw 
-提取码：v448
+链接：https://pan.baidu.com/s/1p1EuRbHtpo5_hOlaZu0CgQ?pwd=wjup
+提取码：wjup
 
 ## 166大数据经典论文解读
-链接：https://pan.baidu.com/s/1ysGaqNiaS40JMJnorfOpaQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1821eSfHz5wKYn3jdGXRWNQ?pwd=wjup
+提取码：wjup
 
 ## 167手把手带你搭建秒杀系统
-链接：https://pan.baidu.com/s/1_865_FSaw0jsFvxr-V-8mg 
-提取码：v448
+链接：https://pan.baidu.com/s/1bUGEjRdiCjNOQY3dNmb0EA?pwd=wjup
+提取码：wjup
 
 ## 168PyTorch深度学习实战
-链接：https://pan.baidu.com/s/1QAYY4ALxoils2XoR3ieC3w 
-提取码：v448
+链接：https://pan.baidu.com/s/1TwYYpH54PTB6mqUSxyyDJg?pwd=wjup
+提取码：wjup
 
 ## 169TonyBai·Go语言第一课
-链接：https://pan.baidu.com/s/191NbNaHAg_clzWnOPrX79g 
-提取码：v448
+链接：https://pan.baidu.com/s/1hg1t--W5UiAuAPygfIsDog?pwd=wjup
+提取码：wjup
 
 ## 170玩转Vue3全家桶
-链接：https://pan.baidu.com/s/1-s7kEzsqaYjSOoAD_hPqbA 
-提取码：v448
+链接：https://pan.baidu.com/s/1PLj7wN9wCVA6qo8AjIOZFQ?pwd=wjup
+提取码：wjup
 
 ## 171全链路压测实战30讲
-链接：https://pan.baidu.com/s/1a0lC8q6amRGT3-j_rkPIyA 
-提取码：v448
+链接：https://pan.baidu.com/s/1DJaEo6CN1GNSAVivl_z30Q?pwd=wjup
+提取码：wjup
 
 ## 172编程高手必学的内存知识
-链接：https://pan.baidu.com/s/1GaMFVG4ylzJ0jAyfluznHw 
-提取码：v448
+链接：https://pan.baidu.com/s/1PzGyKyWAAi9dw5UWtaL9nw?pwd=wjup
+提取码：wjup
 
 ## 173超级访谈：对话张雪峰
-链接：https://pan.baidu.com/s/1zPyHiaKqbXHa-Oano7VyXQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1YVftkGLS7kiPMnurniqHLg?pwd=wjup
+提取码：wjup
 
 ## 174深入剖析Java新特性
-链接：https://pan.baidu.com/s/1OPQ4egtKOT83kBtB334tQg 
-提取码：v448
+链接：https://pan.baidu.com/s/1-gGClo0prnrwzB-BuD0voQ?pwd=wjup
+提取码：wjup
 
 ## 175攻克视频技术
-链接：https://pan.baidu.com/s/1bywYjGw6QXkt-IhufBktXg 
-提取码：v448
+链接：https://pan.baidu.com/s/1y1kYbMpWHqb-TIto7OYVgA?pwd=wjup
+提取码：wjup
 
 ## 176搞定音频技术
-链接：https://pan.baidu.com/s/1AifsRUgPibUuN8-DfRnKKw 
-提取码：v448
+链接：https://pan.baidu.com/s/1YioJ3lqBxBEJs8dUbYsv-g?pwd=wjup
+提取码：wjup
 
 ## 177郭东白的架构课
-链接：https://pan.baidu.com/s/1gh9dRxB5UBil5OO9CONGYQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1Xp0qeA7RmeA_f5akENl8Yg?pwd=wjup
+提取码：wjup
 
 ## 178深入C语言和程序运行原理
-链接：https://pan.baidu.com/s/1GEVjujHWSUyjMRRIU8tkeQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1DDF5aK3EZWfTpWWjr2vncA?pwd=wjup
+提取码：wjup
 
 ## 179业务开发算法50讲
-链接：https://pan.baidu.com/s/1_ZEXRxiXGLiJCsPGX8FnKg 
-提取码：v448
+链接：https://pan.baidu.com/s/1kjEwj-fRoceKm2wPNZcSDg?pwd=wjup
+提取码：wjup
 
 ## 180SpringCloud微服务项目实战
-链接：https://pan.baidu.com/s/1gKxUcr_uY8fnM5-MVUFpRQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1ix036-9eVAVOZxlITbsUVw?pwd=wjup
+提取码：wjup
 
 ## 181Web漏洞挖掘实战
-链接：https://pan.baidu.com/s/1yuYcpXqT-SaFgnAP2_o_Qw 
-提取码：v448
+链接：https://pan.baidu.com/s/1CmEiY2FhHRAq0ZKhme7WvA?pwd=wjup
+提取码：wjup
 
 ## 182去无方向的信
-链接：https://pan.baidu.com/s/1KjSEtyNhtYDu86dF_Ehb6Q 
-提取码：v448
+链接：https://pan.baidu.com/s/1DH4voCTDLOmMa3c0z1EOQw?pwd=wjup
+提取码：wjup
 
 ## 183朱涛·Kotlin编程第一课
-链接：https://pan.baidu.com/s/1dr1JOFZaehHYUqzRov50kw 
-提取码：v448
+链接：https://pan.baidu.com/s/11CM2BFLMmi_Z6Cmh9nKo-g?pwd=wjup
+提取码：wjup
 
 ## 184网络排查案例课
-链接：https://pan.baidu.com/s/1ZjcSZbURUI-japEelMM88A 
-提取码：v448
+链接：https://pan.baidu.com/s/1RnhHSVgJkVcc-vAx64O50w?pwd=wjup
+提取码：wjup
 
 ## 185反爬虫兵法演绎20讲
-链接：https://pan.baidu.com/s/1AjlsSLXWrzcu3GRFF6T08w 
-提取码：v448
+链接：https://pan.baidu.com/s/1KtJI3dvA84WJi6NWLMJS9w?pwd=wjup
+提取码：wjup
 
 ## 186eBPF核心技术与实战
-链接：https://pan.baidu.com/s/1BUIDW_I95chxO5JMbZkFVg 
-提取码：v448
+链接：https://pan.baidu.com/s/14BnxfR5guuGIPbdsFeqwVA?pwd=wjup
+提取码：wjup
 
 ## 187深入浅出分布式技术原理
-链接：https://pan.baidu.com/s/1o9_s9GaGHhnTOpRUSGJ2OA 
-提取码：v448
+链接：https://pan.baidu.com/s/1XsBmbcKf6JLDIcjkebRzmQ?pwd=wjup
+提取码：wjup
 
 ## 188李智慧·高并发架构实战课
-链接：https://pan.baidu.com/s/1piWZ3knYB_6SSKPvoDN3pw 
-提取码：v448
+链接：https://pan.baidu.com/s/1MKIWGwMMyquWeJUpBSRZ6g?pwd=wjup
+提取码：wjup
 
 ## 189大厂广告产品心法
-链接：https://pan.baidu.com/s/17aHJSNN6ytnijbkVAIfaqw 
-提取码：v448
+链接：https://pan.baidu.com/s/1ijGP2_HMuXvvjQSzlN1Avg?pwd=wjup
+提取码：wjup
 
 ## 190说透低代码
-链接：https://pan.baidu.com/s/1aB1FXvSp1LymkXSaEdSUMQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1RPJK5wRIZeCv3_H-iZ2Krw?pwd=wjup
+提取码：wjup
 
 ## 191自动化测试高手课
-链接：https://pan.baidu.com/s/1HtSH0DfMELWBMBORqvu-_Q 
-提取码：v448
+链接：https://pan.baidu.com/s/1LNXlCFt5BUk9kwurTudXuw?pwd=wjup
+提取码：wjup
 
 ## 192徐昊·TDD项目实战70讲
-链接：https://pan.baidu.com/s/1kxR6shElKwa6owejzgNKaQ 
-提取码：v448
+链接：https://pan.baidu.com/s/15CUZrAMs3yAWt835FnQeIw?pwd=wjup
+提取码：wjup
 
 ## 193超级访谈：对话汤峥嵘
-链接：https://pan.baidu.com/s/16I56yGB2-MnRoP_2UOsZOA 
-提取码：v448
+链接：https://pan.baidu.com/s/1ZRXf7q8p8v0BanWk3GuaNg?pwd=wjup
+提取码：wjup
 
 ## 194ReactNative新架构实战课
-链接：https://pan.baidu.com/s/1-8xdIH8bUcXfDBLQle238A 
-提取码：v448
+链接：https://pan.baidu.com/s/11HITCHZ2RoQizUy-LGKNCw?pwd=wjup
+提取码：wjup
 
 ## 195遗留系统现代化实战
-链接：https://pan.baidu.com/s/18-H6M6ggZh2aLueA8inSgg 
-提取码：v448
+链接：https://pan.baidu.com/s/1Fo08zGXlg94afBmlS06BpQ?pwd=wjup
+提取码：wjup
 
 ## 196林外·专利写作第一课
-链接：https://pan.baidu.com/s/1uzXABDZP38Fhk3DZmWj0hg 
-提取码：v448
+链接：https://pan.baidu.com/s/1jK7UssHiZFlvQxRQpoANNQ?pwd=wjup
+提取码：wjup
 
 ## 197说透元宇宙
-链接：https://pan.baidu.com/s/1rN2UzmTTW_yKrCmGtmNiYA 
-提取码：v448
+链接：https://pan.baidu.com/s/1hsEI1PNMGysuYWBlfNM6Gg?pwd=wjup
+提取码：wjup
 
 ## 198人人都用得上的数字化思维课
-链接：https://pan.baidu.com/s/1SHSIATBgMHKqi1HPpjFLgQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1py381rsnHDK-pPaogivNTg?pwd=wjup
+提取码：wjup
 
 ## 199中间件核心技术与实战
-链接：https://pan.baidu.com/s/1A0yKQdCExyWSY_3QbPkykQ 
-提取码：v448
+链接：https://pan.baidu.com/s/17u-uyUBeZBs0MgeQ7HAzWg?pwd=wjup
+提取码：wjup
 
 ## 200Kubernetes入门实战课
-链接：https://pan.baidu.com/s/1D1aZtdOYWhw_WVQDQkVDTg 
-提取码：v448
+链接：https://pan.baidu.com/s/1Qx71meQD5_JMQbIpfqzWfA?pwd=wjup
+提取码：wjup
 
 ## 201大厂设计进阶实战课
-链接：https://pan.baidu.com/s/1EnnsXDF-ZWCb5lCGk4pdhg 
-提取码：v448
+链接：https://pan.baidu.com/s/1UCqBIEQ8VvAm8DO1bPvTHQ?pwd=wjup
+提取码：wjup
 
 ## 202快手·音视频技术入门课
-链接：https://pan.baidu.com/s/1FLsVc_NuClaqpBbeAT51Lw 
-提取码：v448
+链接：https://pan.baidu.com/s/1CzHHF-T1fXPhcj6R2-iqSQ?pwd=wjup
+提取码：wjup
 
 ## 203快手·移动端音视频开发实战
-链接：https://pan.baidu.com/s/1vjBb8e4IpMZWDsULyiqBDg 
-提取码：v448
+链接：https://pan.baidu.com/s/1_QLEohTjkXfzwDYjqaqksQ?pwd=wjup
+提取码：wjup
 
 ## 204商业思维案例笔记
-链接：https://pan.baidu.com/s/1Ug2LvzDmo6PYdE-IxMT4cg 
-提取码：v448
+链接：https://pan.baidu.com/s/1KhoJ8PGaEgQq1gNvVkkWiQ?pwd=wjup
+提取码：wjup
 
 ## 205计算机基础实战课
-链接：https://pan.baidu.com/s/1QLTfjQE0Ro13P0MSzDmv1A 
-提取码：v448
+链接：https://pan.baidu.com/s/1ofTyv_tF5t0fnXIguEDXyw?pwd=wjup
+提取码：wjup
 
 ## 206Web3.0入局攻略
-链接：https://pan.baidu.com/s/1ol4-M-jU4STIMliVcXbpUQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1Tx9ul875x9s-WObSGFXotA?pwd=wjup
+提取码：wjup
 
 ## 207现代ReactWeb开发实战
-链接：https://pan.baidu.com/s/1K2jDujhW-vVH1gjp5PwrgQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1uopMJ6z0zq-J_nh1p9bxnA?pwd=wjup
+提取码：wjup
 
 ## 208Serverless进阶实战课
-链接：https://pan.baidu.com/s/1HmTZQo16oJ2cApsziBYg9Q 
-提取码：v448
+链接：https://pan.baidu.com/s/1WU29HIin8TVtR8qRrBhIQA?pwd=wjup
+提取码：wjup
 
 ## 209-技术领导力实战笔记2022【完结】
-链接：https://pan.baidu.com/s/1Sf2yzaMlK87eiu2xRNK8QA 
-提取码：v448
+链接：https://pan.baidu.com/s/1MbEZD7YprO60JdZphIfE2w?pwd=wjup
+提取码：wjup
 
 ## 210深入浅出可观测性
-链接：https://pan.baidu.com/s/1b1_BoXkcOucU2xjH7nUEzg 
-提取码：v448
+链接：https://pan.baidu.com/s/13TH1tdsuRxLBmJsqOVKihg?pwd=wjup
+提取码：wjup
 
 ## 211-JavaScript进阶实战课【完结】
-链接：https://pan.baidu.com/s/1PdjwdWDRyiKB2MfS59x_2w 
-提取码：v448
+链接：https://pan.baidu.com/s/1vcBqo8ybjI9U2JuqSd0FSA?pwd=wjup
+提取码：wjup
 
 ## 212Go进阶·分布式爬虫实战【完结】
-链接：https://pan.baidu.com/s/1_x2eO9-OX9wxQAcUtMq2ug 
-提取码：v448
+链接：https://pan.baidu.com/s/115NLOAnwvXa3rjORBpLmvA?pwd=wjup
+提取码：wjup
 
 ## 213超级访谈：对话毕玄
-链接：https://pan.baidu.com/s/14SvxA_gRqBJ8S5F6TKZukQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1qlDZCZCvLDC0jdrWt_bBaQ?pwd=wjup
+提取码：wjup
 
 ## 214超级访谈：对话玉伯
-链接：https://pan.baidu.com/s/1eAvQR7dtGbIppSPmiADyDg 
-提取码：v448
+链接：https://pan.baidu.com/s/1oK8U91yUiOB8A7wP-DjjGQ?pwd=wjup
+提取码：wjup
 
 ## 215高并发系统实战课
-链接：https://pan.baidu.com/s/1QvI06mhqJyP8TnO7By7WMw 
-提取码：v448
+链接：https://pan.baidu.com/s/1hkP4aWRpHnMeGDdBrBJ6Kg?pwd=wjup
+提取码：wjup
 
 ## 216-Vue3企业级项目实战课【完结】
-链接：https://pan.baidu.com/s/1kmXkXEd_HNQh3HsnyFJ7Kw 
-提取码：v448
+链接：https://pan.baidu.com/s/1AwH4sQOkR_tz8n0wO36V8w?pwd=wjup
+提取码：wjup
 
 ## 217-手把手教你落地DDD【完结】
-链接：https://pan.baidu.com/s/169Cw7pElmHjJOWGXJ7jxOQ 
-提取码：v448
+链接：https://pan.baidu.com/s/10vsxabS92yPMJZwIaT1y5Q?pwd=wjup
+提取码：wjup
 
 ## 218-云原生架构与GitOps实战【完结】
-链接：https://pan.baidu.com/s/1FIC5JCPe0ZgEEluU7tDDZQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1gZFQ_YkQcMpZfm0QTYiDRg?pwd=wjup
+提取码：wjup
 
 ## 219-Dubbo源码剖析与实战【完结】
-链接：https://pan.baidu.com/s/18da9dQRjOZ7RUKKcbh0s4A 
-提取码：v448
+链接：https://pan.baidu.com/s/1u_zHlOFe8WJCg080LG-JzA?pwd=wjup
+提取码：wjup
 
 ## 220-现代C++20实战高手课【完结】
-链接：https://pan.baidu.com/s/11WsQIhlOrBPNyA_NyWB2Zg 
-提取码：v448
+链接：https://pan.baidu.com/s/1wfjB_8dU5-eutpDTYRHTvw?pwd=wjup
+提取码：wjup
 
 ## 221-运维监控系统实战笔记【完结】
-链接：https://pan.baidu.com/s/13beSsa_14bApTLE5QMYsQg 
-提取码：v448
+链接：https://pan.baidu.com/s/1QTO0KaV2L4MVvfsEkrc9oQ?pwd=wjup
+提取码：wjup
 
 ## 222-手把手带你写一个MiniSpring【完结】
-链接：https://pan.baidu.com/s/1OuqPxjXSvj7lZ4y09v_crQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1YTQRsqQZ0YsS_oLAOOursA?pwd=wjup
+提取码：wjup
 
 ## 223-快速上手C++数据结构与算法【完结】
-链接：https://pan.baidu.com/s/1HD0DsaYtmPolmN2JTYQjeg 
-提取码：v448
+链接：https://pan.baidu.com/s/14piV-LE2w0oHnIJ_jz-w4w?pwd=wjup
+提取码：wjup
 
 ## 224-大型Android系统重构实战【完结】
-链接：https://pan.baidu.com/s/1EdrHbvWBUJgDv8Ob6vc55w 
-提取码：v448
+链接：https://pan.baidu.com/s/1XZbnCcp8cUvZFgnhmHWZbg?pwd=wjup
+提取码：wjup
 
 ## 225-手把手带你搭建推荐系统【完结】
-链接：https://pan.baidu.com/s/1LJMdzUlLAE9LGC4HrQLjpQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1Gg8lMUWotge-PE9G8kXUNA?pwd=wjup
+提取码：wjup
 
 ## 226-AI大模型之美【完结】
-链接：https://pan.baidu.com/s/1sABvv2BpBl8wweJ5sByJsg 
-提取码：v448
+链接：https://pan.baidu.com/s/1RGqXzu1PfC5kBfd9up95HA?pwd=wjup
+提取码：wjup
 
 ## 227-Python实战·从0到1搭建直播视频平台（35讲）
-链接：https://pan.baidu.com/s/12OSyrtYtOfsaUMQmjugJtQ 
-提取码：v448
+链接：https://pan.baidu.com/s/1siHbC8ramRNkv1j_b3P4WA?pwd=wjup
+提取码：wjup
 
 ## 228-邓明-后端工程师的高阶面经(13讲)
-链接：https://pan.baidu.com/s/1QaJPVe22tA4jjA3qXsyVnA 
-提取码：v448
+链接：https://pan.baidu.com/s/1DS3fwI_o3SfDaqJc_En5GA?pwd=wjup
+提取码：wjup
 
 ## 229-B端体验设计入门课【完结】
-链接：https://pan.baidu.com/s/1sV1OEZ6jBUTBdHxVHNVkFA 
-提取码：v448
+链接：https://pan.baidu.com/s/1FzV0R2ozIGfG40-KIpqu6g?pwd=wjup
+提取码：wjup
+
+## 230-零基础GPT应用入门课【完结】
+链接：https://pan.baidu.com/s/1dFnBP5kkqTDTZdrmaKZUJA?pwd=wjup
+提取码：wjup
+
+
+
+
+# 视频课
+## 1-微服务架构核心20讲
+链接：https://pan.baidu.com/s/1vtm4dOSKU02wSg1_DWHVvw?pwd=f49e
+提取码：f49e
+
+## 2-微服务架构实战160讲
+链接：https://pan.baidu.com/s/1zfqEi4EDnbioh9s0B1js9w?pwd=f49e
+提取码：f49e
+
+## 3-零基础学Python（2018版）
+链接：https://pan.baidu.com/s/1d1n-4sbBgCQh-dOaqeTpyQ?pwd=f49e
+提取码：f49e
+
+## 4-React实战进阶45讲
+链接：https://pan.baidu.com/s/12NSniLljY4CvLw-AP7CWXQ?pwd=f49e
+提取码：f49e
+
+## 5-快速上手Kotlin开发
+链接：https://pan.baidu.com/s/1jkd67VwfNzIOprHBLHYibg?pwd=f49e
+提取码：f49e
+
+## 6-算法面试通关40讲
+链接：https://pan.baidu.com/s/19bMUlrK1t-_n6stL5cml3g?pwd=f49e
+提取码：f49e
+
+## 7-Nginx核心知识150讲
+链接：https://pan.baidu.com/s/1CePnyzRJlZigZhMSbQwogg?pwd=f49e
+提取码：f49e
+
+## 8-玩转Git三剑客
+链接：https://pan.baidu.com/s/13T7JXF3g2erEZhTafip_Vw?pwd=f49e
+提取码：f49e
+
+## 9-TensorFlow快速入门与实战
+链接：https://pan.baidu.com/s/1BM3YUGhdUi-anDRLHqgiVQ?pwd=f49e
+提取码：f49e
+
+## 10-玩转Spring全家桶
+链接：https://pan.baidu.com/s/1d98Q6DFjYo-3wUu3k-8Ojg?pwd=f49e
+提取码：f49e
+
+## 11-Go语言从入门到实战
+链接：https://pan.baidu.com/s/1x65mGlvOVWmKZMMjal8PxA?pwd=f49e
+提取码：f49e
+
+## 12-Vue开发实战
+链接：https://pan.baidu.com/s/1yLDmyGMuD6BEBT2ev4bXtA?pwd=f49e
+提取码：f49e
+
+## 13-从0开发一款iOSApp
+链接：https://pan.baidu.com/s/1zdhGBx_2o8s02fmtu4N7ww?pwd=f49e
+提取码：f49e
+
+## 14-Web协议详解与抓包实战
+链接：https://pan.baidu.com/s/1BY6b1etldqs6mLn-Fu8LAA?pwd=f49e
+提取码：f49e
+
+## 15-零基础学Java
+链接：https://pan.baidu.com/s/1XMZJIHJO8NMa9sMrXBsuuw?pwd=f49e
+提取码：f49e
+
+## 16-玩转webpack
+链接：https://pan.baidu.com/s/1a5jTgjV7mi99Hcu5_aZbmg?pwd=f49e
+提取码：f49e
+
+## 17-Linux实战技能100讲
+链接：https://pan.baidu.com/s/1?pwd=f49e
+提取码：f49e
+
+## 18-Elasticsearch核心技术与实战
+链接：https://pan.baidu.com/s/14h2t6SktSh0bJZ1VmyIb3g?pwd=f49e
+提取码：f49e
+
+## 19-SpringBoot与Kubernetes云原生微服务实践
+链接：https://pan.baidu.com/s/1Dn66PKdCchPw1xsAAfU4HQ?pwd=f49e
+提取码：f49e
+
+## 20-TypeScript开发实战
+链接：https://pan.baidu.com/s/1f_9UMS21NF320VudmAg-Zw?pwd=f49e
+提取码：f49e
+
+## 21-Swift核心技术与实战
+链接：https://pan.baidu.com/s/1lziaCBxDNWoJQ6BugCVxTQ?pwd=f49e
+提取码：f49e
+
+## 22-ZooKeeper实战与源码剖析
+链接：https://pan.baidu.com/s/1565qauz2Gs3580rO-KZlhQ?pwd=f49e
+提取码：f49e
+
+## 23-Node.js开发实战
+链接：https://pan.baidu.com/s/1xxqVlCqcSL2xmS8elvwmRA?pwd=f49e
+提取码：f49e
+
+## 24-Netty源码剖析与实战
+链接：https://pan.baidu.com/s/1sDgfQ09AsT-cAnwxUMcLhw?pwd=f49e
+提取码：f49e
+
+## 25-移动端自动化测试实战
+链接：https://pan.baidu.com/s/1bk6vyJaMXA6Ehc-XSj1lyw?pwd=f49e
+提取码：f49e
+
+## 26-MongoDB高手课
+链接：https://pan.baidu.com/s/18WhVY3PS1mghOWwvotrtiA?pwd=f49e
+提取码：f49e
+
+## 27-小马哥讲Spring核心编程思想
+链接：https://pan.baidu.com/s/1ffGfEkjPDhO5wAuj5pv-5w?pwd=f49e
+提取码：f49e
+
+## 28-Electron开发实战
+链接：https://pan.baidu.com/s/1mp2F46dJOU-lETKPv6pMDQ?pwd=f49e
+提取码：f49e
+
+## 29-NETCore开发实战
+链接：https://pan.baidu.com/s/12pBffwgnLtw-1N9k93iw-A?pwd=f49e
+提取码：f49e
+
+## 30-NLP实战高手课
+链接：https://pan.baidu.com/s/1U7WPczoaUuyq8hWt7uhR-A?pwd=f49e
+提取码：f49e
+
+## 31-ServiceMesh实战
+链接：https://pan.baidu.com/s/122aPQVEMiiWzCHWStnIJYA?pwd=f49e
+提取码：f49e
+
+## 32-微信小程序全栈开发实战
+链接：https://pan.baidu.com/s/1MVwZCOGyyV9SqMR7WKWRjA?pwd=f49e
+提取码：f49e
+
+## 33-TensorFlow2项目进阶实战
+链接：https://pan.baidu.com/s/15JqLKAx7PqToeIR39v6O9w?pwd=f49e
+提取码：f49e
+
+## 34-分布式系统案例课
+链接：https://pan.baidu.com/s/116cNGsqkjJEeDdkbx9OrFg?pwd=f49e
+提取码：f49e
+
+## 35-Web安全攻防实战
+链接：https://pan.baidu.com/s/1A_Nn5xVXoAtuVob4lOUfQA?pwd=f49e
+提取码：f49e
+
+## 36-Selenium自动化测试实战
+链接：https://pan.baidu.com/s/1ChdCHS4GYqGhLSXEry-zew?pwd=f49e
+提取码：f49e
+
+## 37-Flink核心技术与实战
+链接：https://pan.baidu.com/s/1dGMbYIZWzexpi0jiya54_g?pwd=f49e
+提取码：f49e
+
+## 38-张汉东的Rust实战课
+链接：https://pan.baidu.com/s/1FPVhjXGUKdHEXPTOVf3h8w?pwd=f49e
+提取码：f49e
+
+## 39-Django快速开发实战
+链接：https://pan.baidu.com/s/1rzSfNYGViy1r4mTRfDghMQ?pwd=f49e
+提取码：f49e
+
+## 40-小马哥讲SpringAOP编程思想
+链接：https://pan.baidu.com/s/15P674lauVsLcLO00ABiq2g?pwd=f49e
+提取码：f49e
+
+## 41-爆款文案修炼手册
+链接：https://pan.baidu.com/s/1euPGv1jJZl9qshqTiH65Hw?pwd=f49e
+提取码：f49e
+
+## 42-如何讲好一堂课
+链接：https://pan.baidu.com/s/11cOw5KLijk4Lf8LHzqkyPg?pwd=f49e
+提取码：f49e
+
+## 43-HarmonyOS快速入门与实战
+链接：https://pan.baidu.com/s/1DygUxXduYzi3Yx1OVHyDtQ?pwd=f49e
+提取码：f49e
+
+## 44-云计算必修小课
+链接：https://pan.baidu.com/s/1CLCXP7-GNlkWe8ACu0joEA?pwd=f49e
+提取码：f49e
+
+## 45-零基础学Python（2023版）【完结】
+链接：https://pan.baidu.com/s/1wktDG1VZbwuP6c0x99aMPA?pwd=f49e
+提取码：f49e
+
+## 46-B端产品经理入门课【完结】
+链接：https://pan.baidu.com/s/1Jy_qaxtl3YlUu6VT06az_A?pwd=f49e
+提取码：f49e
 
 ## 230-零基础GPT应用入门课【完结】
 链接：https://pan.baidu.com/s/1LgXOQsE5lkrn5AuxcVMFyw 
